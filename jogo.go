@@ -17,7 +17,7 @@ func main() {
 		fmt.Print("Digite um número entre 1 e 100: ")
 		fmt.Scan(&numero)
 
-		numero_aleatorio := rand.Intn(3) + 1
+		numero_aleatorio := rand.Intn(100) + 1
 
 		for {
 			if numero < numero_aleatorio {
