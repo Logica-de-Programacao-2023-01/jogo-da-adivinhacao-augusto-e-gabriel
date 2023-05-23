@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ee97054-9e09-439f-a996-cceaf62c12fc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jogo.go" beforeDir="false" afterPath="$PROJECT_DIR$/jogo.go" afterDir="false" />
-    </list>
+    <list default="true" id="1ee97054-9e09-439f-a996-cceaf62c12fc" name="Changes" comment="jogo_adivinhacao" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +65,10 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jogo_adivinhacao" />
+    <option name="LAST_COMMIT_MESSAGE" value="jogo_adivinhacao" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
