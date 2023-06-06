@@ -12,7 +12,7 @@ func main() {
 	lista := []int{}
 
 	fmt.Println("Bem-vindo ao jogo da adivinhação!")
-	numero_aleatorio := rand.Intn(5) + 1
+	numero_aleatorio := rand.Intn(100) + 1
 	print(numero_aleatorio)
 
 	for tentativas := 1; replay; tentativas++ {
@@ -31,7 +31,7 @@ func main() {
 		} else if numero == numero_aleatorio {
 			fmt.Println("Parabéns, você acertou!")
 			numero_aleatorio = 0
-			numero_aleatorio = rand.Intn(5) + 1
+			numero_aleatorio = rand.Intn(100) + 1
 			fmt.Printf("Você utilizou %v tentativas\n", tentativas)
 			lista = append(lista, tentativas)
 			numero = 0
